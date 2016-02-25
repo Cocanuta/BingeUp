@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b3699b8b-ca01-45ae-94f5-747b2e89ab45" name="Server" url="http://www.bingeup.com">
+        <fileTransfer host="ftp.cocanuta.com" port="21" password="df9fdfd3df9fdfdedf98dfc7df9adf98dff9dfd3dfd9dfcfdfc4dfcddf9adf99" username="ben@bingeup.com">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="478b3b39-ee34-4d26-b18b-3e01a4b57f1a" name="Cocanuta.com" url="http://www.BingeUp.com">
+        <fileTransfer mountedRoot="C:\Users\cocan\AppData\Roaming\Microsoft\Windows\Network Shortcuts\Cocanuta.com" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
